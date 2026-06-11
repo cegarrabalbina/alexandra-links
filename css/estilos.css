@@ -96,10 +96,10 @@ body::after {
     box-shadow: 2px 2px 0px 0px rgba(0, 0, 0, 0.6);
 }
 
-.link.sitio-wed:hover {
-    background-color: #dfa300;
+.link.sitio-wed: {
+    background-color: #00a896;
     color: white;
-    border-color: #000000;
+    border-color: #00a896;
 }
 
 .link.linkedin:hover {
