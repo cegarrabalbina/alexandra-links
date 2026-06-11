@@ -108,26 +108,25 @@ body::after {
     border-color: #005582;
 }
 
-.link.youtube:hover {
-    background-color: #ff0000;
+/* Botón GitHub - negro oficial de GitHub */
+.link.github {
+    background-color: #24292e;
     color: white;
-    border-color: #cc0000;
 }
 
-.link.instagram:hover {
-    background-color: #c13584;
-    color: white;
-    border-color: #a02a6d;
+.link.github:hover {
+    background-color: #1a1e22;
 }
 
-.link.facebook:hover {
-    background-color: #1877f2;
+/* Botón Email - podés elegir */
+.link.email {
+    background-color: #c71610; /* Rojo Gmail */
     color: white;
-    border-color: #0f62d3;
 }
 
-.link.twitter:hover {
-    background-color: #1da1f2;
-    color: white;
-    border-color: #0e88cf;
+.link.email:hover {
+    background-color: #a1120d;
 }
+
+
+
