@@ -96,41 +96,47 @@ body::after {
     box-shadow: 2px 2px 0px 0px rgba(0, 0, 0, 0.6);
 }
 
-.link.sitio-wed: {
+/* SITIO WEB - Verde azulado tech */
+.link.sitio-web {
     background-color: #00a896;
     color: white;
     border-color: #00a896;
 }
+.link.sitio-web:hover {
+    background-color: #028090;
+    border-color: #028090;
+}
 
-.link.linkedin:hover {
+/* LINKEDIN - Azul oficial */
+.link.linkedin {
     background-color: #0077b5;
     color: white;
+    border-color: #0077b5;
+}
+.link.linkedin:hover {
+    background-color: #005582;
     border-color: #005582;
 }
 
-/* Botón GitHub - negro oficial de GitHub */
+/* GITHUB - Negro oficial */
 .link.github {
     background-color: #24292e;
     color: white;
-    border-color: #24292e
+    border-color: #24292e;
 }
-
 .link.github:hover {
     background-color: #1a1e22;
     border-color: #000000;
 }
 
-/* Botón Email - podés elegir */
+/* EMAIL - Rojo Gmail que ya tenés */
 .link.email {
-    background-color: #c71610; /* Rojo Gmail */
+    background-color: #c71610;
     color: white;
     border-color: #c71610;
 }
-
 .link.email:hover {
     background-color: #a1120d;
-    border-color:#8a0f0a;
+    border-color: #8a0f0a;
 }
-
-
 
