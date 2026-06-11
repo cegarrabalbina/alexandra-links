@@ -112,20 +112,24 @@ body::after {
 .link.github {
     background-color: #24292e;
     color: white;
+    border-color: #24292e
 }
 
 .link.github:hover {
     background-color: #1a1e22;
+    border-color: #000000;
 }
 
 /* Botón Email - podés elegir */
 .link.email {
     background-color: #c71610; /* Rojo Gmail */
     color: white;
+    border-color: #c71610;
 }
 
 .link.email:hover {
     background-color: #a1120d;
+    border-color:#8a0f0a;
 }
 
 
